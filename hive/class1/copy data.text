@@ -1,0 +1,3 @@
+gcloud compute scp Reviews.csv abhikashyap10@hadoop-m. from local to nn
+
+nn to dn hadoop fs -put Reviews.csv /bootcamp/
