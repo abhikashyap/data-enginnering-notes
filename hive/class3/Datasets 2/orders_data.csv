@@ -1,0 +1,101 @@
+OrderID,CustomerDetails,Product,Status,Price
+ORD-00000,"Diana, Phoenix","Headphones","\"Pending\"",403.97
+ORD-00001,"Alice, Houston","Headphones","\"Pending\"",196.17
+ORD-00002,"Charlie, Chicago","Tablet","\"Shipped\"",238.59
+ORD-00003,"Charlie, Chicago","Headphones","\"Cancelled\"",205.76
+ORD-00004,"Charlie, Houston","Smartphone","\"Cancelled\"",456.57
+ORD-00005,"Charlie, New York","Headphones","\"Shipped\"",410.95
+ORD-00006,"Bob, Los Angeles","Smartphone","\"Cancelled\"",375.04
+ORD-00007,"Eve, Phoenix","Smartphone","\"Delivered\"",83.37
+ORD-00008,"Alice, Los Angeles","Camera","\"Cancelled\"",377.79
+ORD-00009,"Eve, Houston","Smartphone","\"Shipped\"",82.65
+ORD-00010,"Charlie, Chicago","Camera","\"Delivered\"",415.3
+ORD-00011,"Eve, Phoenix","Headphones","\"Delivered\"",198.63
+ORD-00012,"Diana, Houston","Tablet","\"Delivered\"",134.06
+ORD-00013,"Charlie, Chicago","Smartphone","\"Delivered\"",305.6
+ORD-00014,"Diana, Chicago","Laptop","\"Pending\"",189.18
+ORD-00015,"Diana, Phoenix","Camera","\"Delivered\"",307.97
+ORD-00016,"Diana, Los Angeles","Laptop","\"Delivered\"",145.51
+ORD-00017,"Bob, Phoenix","Headphones","\"Pending\"",249.2
+ORD-00018,"Bob, Phoenix","Camera","\"Pending\"",402.88
+ORD-00019,"Diana, Los Angeles","Camera","\"Shipped\"",329.59
+ORD-00020,"Diana, Houston","Camera","\"Delivered\"",316.33
+ORD-00021,"Charlie, Houston","Headphones","\"Pending\"",187.3
+ORD-00022,"Bob, Chicago","Headphones","\"Cancelled\"",318.11
+ORD-00023,"Alice, Phoenix","Laptop","\"Cancelled\"",473.76
+ORD-00024,"Eve, Phoenix","Camera","\"Delivered\"",132.64
+ORD-00025,"Bob, Phoenix","Headphones","\"Delivered\"",406.55
+ORD-00026,"Diana, Houston","Tablet","\"Delivered\"",325.08
+ORD-00027,"Bob, Chicago","Tablet","\"Cancelled\"",124.89
+ORD-00028,"Diana, Phoenix","Camera","\"Delivered\"",465.48
+ORD-00029,"Eve, Houston","Tablet","\"Pending\"",430.74
+ORD-00030,"Alice, Phoenix","Smartphone","\"Pending\"",212.95
+ORD-00031,"Charlie, Phoenix","Tablet","\"Pending\"",320.67
+ORD-00032,"Bob, Los Angeles","Smartphone","\"Cancelled\"",155.78
+ORD-00033,"Charlie, New York","Headphones","\"Delivered\"",403.75
+ORD-00034,"Bob, New York","Camera","\"Pending\"",413.36
+ORD-00035,"Charlie, Los Angeles","Smartphone","\"Delivered\"",223.43
+ORD-00036,"Charlie, Houston","Headphones","\"Shipped\"",490.84
+ORD-00037,"Charlie, Chicago","Headphones","\"Shipped\"",137.6
+ORD-00038,"Eve, Phoenix","Camera","\"Cancelled\"",290.16
+ORD-00039,"Diana, Chicago","Headphones","\"Delivered\"",156.19
+ORD-00040,"Alice, Los Angeles","Smartphone","\"Cancelled\"",443.26
+ORD-00041,"Eve, Chicago","Smartphone","\"Cancelled\"",227.01
+ORD-00042,"Eve, Phoenix","Smartphone","\"Delivered\"",438.75
+ORD-00043,"Diana, Chicago","Laptop","\"Pending\"",396.61
+ORD-00044,"Alice, New York","Headphones","\"Cancelled\"",217.45
+ORD-00045,"Diana, Chicago","Tablet","\"Shipped\"",255.94
+ORD-00046,"Diana, Houston","Laptop","\"Delivered\"",188.5
+ORD-00047,"Diana, Los Angeles","Smartphone","\"Delivered\"",319.42
+ORD-00048,"Bob, Chicago","Laptop","\"Cancelled\"",481.81
+ORD-00049,"Diana, Los Angeles","Headphones","\"Cancelled\"",185.95
+ORD-00050,"Bob, New York","Laptop","\"Pending\"",151.59
+ORD-00051,"Bob, Los Angeles","Laptop","\"Pending\"",281.11
+ORD-00052,"Diana, New York","Laptop","\"Cancelled\"",138.03
+ORD-00053,"Diana, Phoenix","Headphones","\"Shipped\"",50.16
+ORD-00054,"Diana, Los Angeles","Laptop","\"Pending\"",221.26
+ORD-00055,"Alice, Phoenix","Smartphone","\"Shipped\"",350.75
+ORD-00056,"Bob, Phoenix","Smartphone","\"Shipped\"",294.22
+ORD-00057,"Charlie, Houston","Tablet","\"Shipped\"",307.59
+ORD-00058,"Eve, Phoenix","Camera","\"Pending\"",357.68
+ORD-00059,"Eve, Los Angeles","Camera","\"Delivered\"",90.13
+ORD-00060,"Alice, Phoenix","Camera","\"Cancelled\"",341.9
+ORD-00061,"Charlie, Houston","Camera","\"Shipped\"",90.01
+ORD-00062,"Bob, Los Angeles","Smartphone","\"Pending\"",129.95
+ORD-00063,"Bob, Houston","Headphones","\"Pending\"",169.25
+ORD-00064,"Eve, New York","Tablet","\"Cancelled\"",230.31
+ORD-00065,"Eve, Chicago","Laptop","\"Cancelled\"",449.06
+ORD-00066,"Alice, Houston","Camera","\"Shipped\"",376.3
+ORD-00067,"Eve, Phoenix","Camera","\"Pending\"",358.62
+ORD-00068,"Alice, Phoenix","Camera","\"Pending\"",293.13
+ORD-00069,"Eve, Chicago","Tablet","\"Shipped\"",199.92
+ORD-00070,"Diana, New York","Headphones","\"Delivered\"",383.21
+ORD-00071,"Charlie, New York","Headphones","\"Delivered\"",319.21
+ORD-00072,"Bob, Phoenix","Laptop","\"Cancelled\"",170.89
+ORD-00073,"Alice, Chicago","Laptop","\"Shipped\"",191.17
+ORD-00074,"Diana, New York","Headphones","\"Delivered\"",231.72
+ORD-00075,"Bob, New York","Laptop","\"Pending\"",305.77
+ORD-00076,"Diana, New York","Camera","\"Cancelled\"",468.35
+ORD-00077,"Bob, New York","Laptop","\"Pending\"",474.51
+ORD-00078,"Bob, Chicago","Laptop","\"Delivered\"",205.26
+ORD-00079,"Charlie, Phoenix","Camera","\"Pending\"",112.38
+ORD-00080,"Alice, Phoenix","Tablet","\"Pending\"",453.81
+ORD-00081,"Alice, Houston","Laptop","\"Shipped\"",51.99
+ORD-00082,"Charlie, Phoenix","Laptop","\"Shipped\"",76.81
+ORD-00083,"Charlie, Houston","Laptop","\"Shipped\"",289.48
+ORD-00084,"Alice, New York","Camera","\"Shipped\"",243.23
+ORD-00085,"Diana, Los Angeles","Tablet","\"Shipped\"",288.63
+ORD-00086,"Alice, Chicago","Laptop","\"Cancelled\"",131.35
+ORD-00087,"Eve, Chicago","Camera","\"Delivered\"",310.52
+ORD-00088,"Alice, Los Angeles","Tablet","\"Delivered\"",272.97
+ORD-00089,"Alice, Los Angeles","Laptop","\"Pending\"",152.24
+ORD-00090,"Bob, Phoenix","Smartphone","\"Delivered\"",98.64
+ORD-00091,"Bob, Houston","Tablet","\"Cancelled\"",120.25
+ORD-00092,"Diana, Phoenix","Camera","\"Cancelled\"",127.86
+ORD-00093,"Bob, Houston","Smartphone","\"Cancelled\"",174.63
+ORD-00094,"Bob, Houston","Tablet","\"Pending\"",389.07
+ORD-00095,"Diana, Phoenix","Smartphone","\"Shipped\"",149.8
+ORD-00096,"Bob, Phoenix","Smartphone","\"Delivered\"",95.21
+ORD-00097,"Eve, New York","Smartphone","\"Shipped\"",134.96
+ORD-00098,"Eve, Phoenix","Headphones","\"Cancelled\"",123.31
+ORD-00099,"Charlie, Houston","Laptop","\"Delivered\"",148.27
