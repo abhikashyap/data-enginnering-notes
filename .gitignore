@@ -1,0 +1,6 @@
+# Large datasets
+*.csv
+*.json
+*.parquet
+*.orc
+*.avro
