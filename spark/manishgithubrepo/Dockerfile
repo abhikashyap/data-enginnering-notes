@@ -26,8 +26,9 @@ RUN /usr/bin/python3 -m pip install --no-cache-dir \
     pandas \
     ipython \
     black \
-    isort
-
+    isort \
+    dotenv \
+    tqdm 
 
 RUN mkdir -p /home/spark/.local/share/jupyter/runtime && \
     mkdir -p /opt/spark-notebooks && \
