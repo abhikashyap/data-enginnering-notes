@@ -1,0 +1,5 @@
+temporal
+clouflare worker
+fastapi
+zod
+pydantic
